@@ -1,0 +1,21 @@
+{
+  "name": "devfbtach",
+  "version": "1.0.0",
+  "description": "repositorio del batch 14",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "suma": "node ./src/index.js",
+    "band": "cat ./src/bandaMusica.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/didierthomasm/devFBtach.git"
+  },
+  "author": "Didier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/didierthomasm/devFBtach/issues"
+  },
+  "homepage": "https://github.com/didierthomasm/devFBtach#readme"
+}
